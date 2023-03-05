@@ -1,0 +1,43 @@
+*{
+  margin: 0; padding: 0; outline: 0; box-sizing: border-box;
+}
+
+
+.product{
+  width:35% ; padding: 15px;  margin: 10px;
+  background-color: bisque; border: solid green; align-items: center;
+}
+
+.image{
+   width: 100%; margin-left: 10px; background-color: aqua;
+}
+.save{
+
+  background-color: blue; width: 35%;  border-radius: 0px 15px 15px 0px;
+  padding-bottom: 10px; margin-bottom: 7px;
+}
+.button{
+  width: 80%; background-color: aqua;
+  margin-top: 10px; 
+}
+.discount{
+  text-align: center; margin-bottom: 9px; 
+}
+
+.list{
+  padding: 10px; margin-bottom: 2px; 
+}
+.y{
+  background-color: brown ; height: 50px; display: flex;
+}
+.con{
+  display: flex;
+}
+.list1{
+  margin-bottom: 20px;
+}
+.model{
+  margin-top: 15px;
+}
+
+

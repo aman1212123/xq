@@ -1,0 +1,26 @@
+.main{
+  display: flex; margin: 10px;
+  
+  justify-content: space-around;
+}
+.serch{
+  justify-content: center;
+}
+.btn{
+  justify-content: left;
+}
+.a1{
+  margin-bottom: 5px;
+}
+.a{
+  margin-bottom: 7px;
+}
+.footer{
+  background-color: aqua; 
+  display: flex;
+
+
+justify-content: space-around;
+height: 40px;
+
+}
